@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    padding: 120px 400px;
+}
+
+.inner{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
